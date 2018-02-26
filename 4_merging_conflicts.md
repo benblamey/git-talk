@@ -1,5 +1,5 @@
 ## Merging on GitHub (with Pull Requeest) & Dealing with Merge Conflicts ##
-
+foobarwibble
 $ git checkout my_feature2
 
 (commit some changes)
