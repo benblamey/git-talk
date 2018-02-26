@@ -6,6 +6,4 @@ git checkout messy
 
 $ git checkout master
 
-(make some more commits)
-
-git rebase -i master topic
+$ git rebase -i master topic
